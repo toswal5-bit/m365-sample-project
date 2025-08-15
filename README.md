@@ -9,3 +9,5 @@ This repository contains a sample Microsoft 365 development project.
 
 ## Purpose
 This project is for learning, testing, and demonstrating Microsoft 365 developer capabilities.
+Status: Repo set up for Microsoft 365 Developer Program eligibility.
+
